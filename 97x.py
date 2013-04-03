@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# This code is ugly, not to mention a shameless hack to control the music!
+#
 import urllib, urllib2 
 from random import randint, uniform
 import json
